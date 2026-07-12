@@ -1,6 +1,6 @@
 # 部署说明
 
-- Cloudflare Pages 项目：$repo
+- Cloudflare Pages 项目：`ot-shenghuojilu`
 - 生产分支：main
 - 发布目录：original-site/
 - 稳定地址：https://ot-shenghuojilu.pages.dev
